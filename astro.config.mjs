@@ -6,9 +6,9 @@ import starlight from '@astrojs/starlight';
 export default defineConfig({
 	integrations: [
 		starlight({
-			title: 'My Docs',
+			title: 'AlexGBot Discord Bot',
 			social: {
-				github: 'https://github.com/withastro/starlight',
+				github: 'https://github.com/AlexMan123456/alex-g-bot',
 			},
 			sidebar: [
 				{

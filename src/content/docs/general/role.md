@@ -4,7 +4,7 @@ description: Get information about a given role.
 ---
 Get information about a given role.
 
-### Example usage
+### Example Usage
     /role role:@Bots
 
 #### Options

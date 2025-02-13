@@ -2,7 +2,7 @@
 title: "User"
 description: "Get information about a user"
 ---
-Get information about a user
+Get information about a user.
 
 ### Example Usages
     /user

@@ -37,6 +37,10 @@ export default defineConfig({
 						{
 							label: "view-cooldowns",
 							slug: "general/view-cooldowns"
+						},
+						{
+							label: "suggestions",
+							slug: "general/suggestions"
 						}
 					],
 				}

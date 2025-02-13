@@ -14,9 +14,34 @@ export default defineConfig({
 				{
 					label: "General",
 					items: [
-						{ label: "ping", slug: "general/ping" },
-						{ label: "github", slug: "general/github"},
-						{ label: "role", slug: "general/role"}
+						{
+							label: "ping", 
+							slug: "general/ping"
+						},
+						{
+							label: "help",
+							slug: "general/help"
+						},
+						{
+							label: "github", 
+							slug: "general/github"
+						},
+						{
+							label: "user", 
+							slug: "general/user"
+						},
+						{
+							label: "role", 
+							slug: "general/role"
+						},
+						{
+							label: "view-cooldowns",
+							slug: "general/view-cooldowns"
+						},
+						{
+							label: "suggestions",
+							slug: "general/suggestions"
+						}
 					],
 				}
 			],

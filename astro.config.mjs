@@ -12,10 +12,11 @@ export default defineConfig({
 			},
 			sidebar: [
 				{
-					label: 'Guides',
+					label: "General",
 					items: [
-						// Each item here is one entry in the navigation menu.
-						{ label: 'Example Guide', slug: 'guides/example' },
+						{ label: "ping", slug: "general/ping" },
+						{ label: "github", slug: "general/github"},
+						{ label: "role", slug: "general/role"}
 					],
 				},
 				{

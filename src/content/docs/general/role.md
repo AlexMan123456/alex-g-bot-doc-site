@@ -8,4 +8,4 @@ Get information about a given role
     /role role:@Bots
 
 ### Example response
-![Bots. Role: @Bots. Mentionable: No. Created on: 07/01/2025, 16:36](../../image-command-responses/role.png)
+![Bots. Role: @Bots. Mentionable: No. Created on: 07/01/2025, 16:36](../../image-command-responses/general/role.png)

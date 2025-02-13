@@ -15,7 +15,8 @@ export default defineConfig({
 					label: "General",
 					items: [
 						{ label: "ping", slug: "general/ping" },
-						{ label: "github", slug: "general/github"}
+						{ label: "github", slug: "general/github"},
+						{ label: "role", slug: "general/role"}
 					],
 				},
 				{

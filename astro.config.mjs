@@ -18,11 +18,7 @@ export default defineConfig({
 						{ label: "github", slug: "general/github"},
 						{ label: "role", slug: "general/role"}
 					],
-				},
-				{
-					label: 'Reference',
-					autogenerate: { directory: 'reference' },
-				},
+				}
 			],
 		}),
 	],

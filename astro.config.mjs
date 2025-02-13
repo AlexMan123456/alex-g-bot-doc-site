@@ -19,6 +19,10 @@ export default defineConfig({
 							slug: "general/ping"
 						},
 						{
+							label: "help",
+							slug: "general/help"
+						},
+						{
 							label: "github", 
 							slug: "general/github"
 						},
@@ -29,7 +33,7 @@ export default defineConfig({
 						{
 							label: "role", 
 							slug: "general/role"
-						}
+						},
 					],
 				}
 			],

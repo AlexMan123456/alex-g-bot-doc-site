@@ -34,6 +34,10 @@ export default defineConfig({
 							label: "role", 
 							slug: "general/role"
 						},
+						{
+							label: "view-cooldowns",
+							slug: "general/view-cooldowns"
+						}
 					],
 				}
 			],
